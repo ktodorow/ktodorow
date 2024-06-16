@@ -55,5 +55,5 @@
 ###
 <h3 align="center">CERTIFICATES 📄</h3> 
 <div align="center">
-  <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://imgur.com/c155c8d5-d465-40d3-8410-8375a813a2f2" height="45" alt="basicsCertificate"  /></a>
+  <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://i.imgur.com/jBa25Me.png" height="45" alt="basicsCertificate"  /></a>
 </div>
