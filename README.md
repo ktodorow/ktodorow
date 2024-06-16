@@ -53,8 +53,7 @@
 </div>
 
 ###
-<h3 align="center">CERTIFICATES <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="35" alt="softuni logo"  /></h3> 
+<h3 align="center">CERTIFICATES 📄</h3> 
 <div align="center">
-  <a href="https://softuni.bg/certificates/details/158336/ebc8016d"><img src="https://i.imgur.com/99gZvgC.png" height="45" alt="csharp logo"  /></a>
-  <a href="https://i.imgur.com/tqIxUbY.png"><img src="https://i.imgur.com/tqIxUbY.png" height="45" alt="csharp logo"  /></a>
+  <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://imgur.com/c155c8d5-d465-40d3-8410-8375a813a2f2" height="45" alt="basicsCertificate"  /></a>
 </div>
