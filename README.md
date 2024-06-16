@@ -55,5 +55,5 @@
 ###
 <h3 align="center">CERTIFICATES <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="35" alt="softuni logo"  /></h3> 
 <div align="center">
-  <img src="https://previews.dropbox.com/p/thumb/ACTQQilX4rgFEmyXZkaKD3NVUMJPIx3MTzPo-wYJAWYvq9CqCJjXGub_dQ9-GnGzq5z8eZsAenLOtAOuBSpuOnlchqVwLD2awDge6UeIxyPP6C_eiHPbXjo8MqmSe4VGjdYW-mBHDWZhNVW8PcTQl7QU7swu98yR1nJAt_h8QyzXMktNGnO3MkGqkltGw1Jm62VWBvSL54yGNSBUZ76TbMWb2qbPtIlDUu6dKagtpCBAs21yv9rFzUfc1NVYypdEVGgc_A8nZANA_R8PEZS42q6-o0FLJj3PZ1vJsok-6HgTS-OJiNqwJHssGK34cJki7DPXhv1Vissudr8yAikGsYtk/p.png" height="40" alt="csharp logo"  />
+  <img src="https://i.imgur.com/99gZvgC.png" height="40" alt="csharp logo"  />
 </div>
