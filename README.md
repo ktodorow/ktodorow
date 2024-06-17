@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif"  />
+<img align="left" height="250" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Rotating_earth_%28large%29_transparent.gif"  />
 
 ###
 
