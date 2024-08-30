@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I'm Kristiyan Todorov 🌍</h1>
+![image](https://github.com/user-attachments/assets/e8edf069-1d68-4213-a470-d0cfeb23a044)<h1 align="center">Hi! I'm Kristiyan Todorov 🌍</h1>
 
 ###
 
-<h3 align="center">.NET Developer in training | Student At SoftUni <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="35" alt="softuni logo"  /></h3> 
+<h3 align="center"> Software Developer | Student At SoftUni <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="35" alt="softuni logo"  /></h3> 
 
 ###
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="12" />q
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="25" alt="postgresql"  />
@@ -55,6 +55,18 @@
 </div>
 
 ###
+
+<div align="center">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="35" alt="py"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" height="35" alt="pygame"  />
+  <img width="12" />
+  
+</div>
+
+###
+
 <h3 align="center">CERTIFICATES 📄</h3> 
 <div align="center">
   <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://i.imgur.com/jBa25Me.png" height="50" alt="basicsCertificate"  /></a>
