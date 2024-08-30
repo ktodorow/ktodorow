@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8edf069-1d68-4213-a470-d0cfeb23a044)<h1 align="center">Hi! I'm Kristiyan Todorov 🌍</h1>
+<h1 align="center">Hi! I'm Kristiyan Todorov 🌍</h1>
 
 ###
 
