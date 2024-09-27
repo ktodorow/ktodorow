@@ -65,7 +65,7 @@
 
 ###
 
-<! -- <h3 align="center">CERTIFICATES 📄</h3> --><div align="center">
+<! -- <h3 align="center">CERTIFICATES 📄</h3> --><div align="center"> -->
   <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://i.imgur.com/jBa25Me.png" height="50" alt="basicsCertificate"  /></a>
   <a href="https://softuni.bg/certificates/details/179537/e219d08a" target="_blank"><img src="https://i.imgur.com/XiL99EF.png" height="50" alt="fundamentalsCertificate"  /></a>
   <a href="https://softuni.bg/certificates/details/188444/2b383f20" target="_blank"><img src="https://i.imgur.com/7bftPIw.png" height="50" alt="advancedCertificate"  /></a>
