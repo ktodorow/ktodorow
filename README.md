@@ -64,12 +64,3 @@
 </div>
 
 ###
-
-<! -- <h3 align="center">CERTIFICATES 📄</h3> --><div align="center"> -->
-  <a href="https://softuni.bg/certificates/details/158336/ebc8016d" target="_blank"><img src="https://i.imgur.com/jBa25Me.png" height="50" alt="basicsCertificate"  /></a>
-  <a href="https://softuni.bg/certificates/details/179537/e219d08a" target="_blank"><img src="https://i.imgur.com/XiL99EF.png" height="50" alt="fundamentalsCertificate"  /></a>
-  <a href="https://softuni.bg/certificates/details/188444/2b383f20" target="_blank"><img src="https://i.imgur.com/7bftPIw.png" height="50" alt="advancedCertificate"  /></a>
-  <a href="https://softuni.bg/certificates/details/195653/332c29d1" target="_blank"><img src="https://i.imgur.com/eoqvq1E.png" height="50" alt="oopCertificate"  /></a>
-  <a href="https://softuni.bg/certificates/details/205444/a0d3ec24" target="_blank"><img src="https://i.imgur.com/xvhFY5f.png" height="50" alt="htmlCSS"  /></a>
-  <a href="=https://softuni.bg/certificates/details/212482/71d6af29" target="_blank"><img src="https://i.imgur.com/TtHnU21.png" height="50" alt="js"  /></a>
-</div> -->
