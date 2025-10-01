@@ -1,8 +1,6 @@
-<h1 align="center">Hi! I'm Kristiyan Todorov 🌍</h1>
-
 ###
 
-<h3 align="center"> Software Developer | Student At SoftUni <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="35" alt="softuni logo"  /></h3> 
+<h3 align="center"> Software Developer " height="35" alt="softuni logo"  /></h3> 
 
 ###
 
