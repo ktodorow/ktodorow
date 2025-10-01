@@ -1,6 +1,6 @@
 ###
 
-<h3 align="center"> Software Developer " height="35" alt="softuni logo"  /></h3> 
+<h3 align="center"> Software Developer </h3> 
 
 ###
 
